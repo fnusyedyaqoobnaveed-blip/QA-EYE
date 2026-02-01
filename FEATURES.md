@@ -1,4 +1,4 @@
-# QA EYE - Key Features
+# Q-ARK - Key Features
 
 **Developer**: FNU SYED YAQOOB NAVEED  
 **Experience**: 15+ Years in QA Automation (API & UI Testing)
