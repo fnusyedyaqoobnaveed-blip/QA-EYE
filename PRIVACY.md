@@ -1,4 +1,4 @@
-# QA EYE - Privacy Policy
+# Q-ARK - Privacy Policy
 
 **Last Updated: December 2024**
 **Developer: FNU SYED YAQOOB NAVEED**
@@ -6,11 +6,11 @@
 
 ## About the Developer
 
-QA EYE is developed by FNU SYED YAQOOB NAVEED, a seasoned QA Automation professional with over 15 years of experience leading both API and UI automation projects. This extension represents years of hands-on experience in test automation challenges and solutions.
+Q-ARK is developed by FNU SYED YAQOOB NAVEED, a seasoned QA Automation professional with over 15 years of experience leading both API and UI automation projects. This extension represents years of hands-on experience in test automation challenges and solutions.
 
 ## Overview
 
-QA EYE is a browser extension designed to help developers and QA engineers generate reliable element locators for web automation testing. We are committed to protecting your privacy and being transparent about our data practices.
+Q-ARK is a browser extension designed to help developers and QA engineers generate reliable element locators for web automation testing. We are committed to protecting your privacy and being transparent about our data practices.
 
 ## Information We Collect
 
@@ -45,7 +45,7 @@ QA EYE is a browser extension designed to help developers and QA engineers gener
 
 ## Permissions Explained
 
-QA EYE requests the following permissions:
+Q-ARK requests the following permissions:
 
 ### activeTab
 - **Purpose**: Access the currently active tab to analyze DOM elements
@@ -71,7 +71,7 @@ QA EYE requests the following permissions:
 
 ## Children's Privacy
 
-QA EYE does not knowingly collect information from children under 13. The extension is designed for professional developers and QA engineers.
+Q-ARK does not knowingly collect information from children under 13. The extension is designed for professional developers and QA engineers.
 
 ## Changes to Privacy Policy
 
@@ -94,9 +94,9 @@ You have the right to:
 
 For privacy-related questions or concerns:
 - **Developer**: FNU SYED YAQOOB NAVEED
-- **GitHub Issues**: [Your GitHub Repository URL]
-- **Email**: [Your Contact Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub Issues**: https://github.com/fnusyedyaqoobnaveed-blip/Q-ARK
+- **Email**: fnusyedyaqoobnaveed@icloud.com
+- **LinkedIn**: https://www.linkedin.com/in/syed-naveed-740a0b127/
 
 ## Developer Credentials
 - **Experience**: 15+ years in QA Automation
@@ -113,7 +113,7 @@ This privacy policy complies with:
 
 ## Technical Implementation
 
-QA EYE is designed with privacy by default:
+Q-ARK is designed with privacy by default:
 - **No Analytics SDKs**: No Google Analytics, Mixpanel, or similar services
 - **No External APIs**: No calls to external services or APIs
 - **No User Tracking**: No unique identifiers or session tracking
@@ -121,4 +121,4 @@ QA EYE is designed with privacy by default:
 
 ---
 
-**Summary**: QA EYE is a privacy-focused extension that processes all data locally on your device. We do not collect, store, or transmit any personal information or browsing data to external servers.
+**Summary**: Q-ARK is a privacy-focused extension that processes all data locally on your device. We do not collect, store, or transmit any personal information or browsing data to external servers.
