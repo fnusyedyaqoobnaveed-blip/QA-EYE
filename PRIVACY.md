@@ -1,7 +1,7 @@
 # Q-ARK - Privacy Policy
 
 **Last Updated: December 2024**
-**Developer: FNU SYED YAQOOB NAVEED**
+**Developer: SYED YAQOOB NAVEED**
 **Experience: 15+ Years in QA Automation (API & UI Testing)**
 
 ## About the Developer
@@ -93,9 +93,9 @@ You have the right to:
 ## Contact Information
 
 For privacy-related questions or concerns:
-- **Developer**: FNU SYED YAQOOB NAVEED
+- **Developer**: SYED YAQOOB NAVEED
 - **GitHub Issues**: https://github.com/fnusyedyaqoobnaveed-blip/Q-ARK
-- **Email**: fnusyedyaqoobnaveed@icloud.com
+- **Email**: support@qark-engine.com
 - **LinkedIn**: https://www.linkedin.com/in/syed-naveed-740a0b127/
 
 ## Developer Credentials
