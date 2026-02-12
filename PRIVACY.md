@@ -6,7 +6,7 @@
 
 ## About the Developer
 
-Q-ARK is developed by FNU SYED YAQOOB NAVEED, a seasoned QA Automation professional with over 15 years of experience leading both API and UI automation projects. This extension represents years of hands-on experience in test automation challenges and solutions.
+Q-ARK is developed by SYED YAQOOB NAVEED, a seasoned QA Automation professional with over 15 years of experience leading both API and UI automation projects. This extension represents years of hands-on experience in test automation challenges and solutions.
 
 ## Overview
 
